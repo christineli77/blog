@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   UI/UX Designer.
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "christineli77.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: #
 github_username:  christineli77
 
 # Build settings
